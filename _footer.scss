@@ -1,0 +1,19 @@
+footer{
+    display: flex;
+    justify-content: flex-end;
+    height: 30px;
+    background-color: #eee;
+    margin-top: 5%;
+
+
+ a{
+    display: flex;
+    margin-right: 1%;
+    align-items: center;    
+    font-size: 15px;  
+
+
+:last-child{
+    margin-right: 2%;
+}
+}}
